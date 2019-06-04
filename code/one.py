@@ -4,4 +4,4 @@ if(n>0):
 elif(n<0):
   print("Negative")
 else:
-  print("The number is equql is equal to zero")
+  print("The number is  equal to zero")
